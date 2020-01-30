@@ -19,8 +19,9 @@ folderu = search_for_file_path ()
 #folderu = "E:\\a smp37"
 if(os.path.isdir(folderu+" Cetak") == 0):
     os.mkdir(folderu+" Cetak")
-if(os.path.isdir(os.path.dirname(folderu)+"temp") == 0):
-    os.mkdir(os.path.dirname(folderu)+"temp")
+up_folder = os.path.dirname(folderu)
+if(os.path.isdir(up_folder+"temp") == 0):
+    os.mkdir(up_folder+"temp")
     
 for fu in os.listdir(folderu) :
     folder = folderu+'\\'+fu
