@@ -64,7 +64,7 @@ for fu in os.listdir(folderu) :
                 canvas.paste(im, pos[no])
                 no+=1
 
-            canvas.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+1)+' 1X (Cetak 12 Lbr).jpg', "JPEG", quality=100, dpi=(300, 300))
+            canvas.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+1)+' 1X.jpg', "JPEG", quality=100, dpi=(300, 300))
             print ('Disimpan '+str(fu)+str(n+1)+' 1X (Cetak 12 Lbr).jpg')
             time.sleep(5)
 
@@ -100,7 +100,7 @@ for fu in os.listdir(folderu) :
                     canvas.paste(im, pos[no])
                     no+=1
 
-                canvas.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+1)+' 12X (Cetak 1 Lbr).jpg', "JPEG", quality=100, dpi=(300, 300))
+                canvas.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+1)+' 12X.jpg', "JPEG", quality=100, dpi=(300, 300))
                 print ('Disimpan '+str(fu)+str(n+1)+' 12X (Cetak 1 Lbr).jpg')
                 time.sleep(5)
 
@@ -129,7 +129,7 @@ for fu in os.listdir(folderu) :
                     canvas.paste(im, pos[no])
                     no+=1
 
-                canvas.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+1)+' 1X (Cetak 12 Lbr).jpg', "JPEG", quality=100, dpi=(300, 300))
+                canvas.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+1)+' 1X.jpg', "JPEG", quality=100, dpi=(300, 300))
                 print ('Disimpan '+str(fu)+str(n+1)+' 1X (Cetak 12 Lbr).jpg')
                 time.sleep(5)
 
@@ -166,7 +166,7 @@ for fu in os.listdir(folderu) :
                     canvas.paste(im, pos[no])
                     no+=1
 
-                canvas.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+1)+' 6X (Cetak 2 Lbr).jpg', "JPEG", quality=100, dpi=(300, 300))
+                canvas.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+1)+' 6X.jpg', "JPEG", quality=100, dpi=(300, 300))
                 print ('Disimpan '+str(fu)+str(n+1)+' 6X (Cetak 2 Lbr).jpg')
                 time.sleep(5)
 
@@ -194,7 +194,7 @@ for fu in os.listdir(folderu) :
                     canvas.paste(im, pos[no])
                     no+=1
 
-                canvas.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+1)+' 1X (Cetak 12 Lbr).jpg', "JPEG", quality=100, dpi=(300, 300))
+                canvas.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+1)+' 1X.jpg', "JPEG", quality=100, dpi=(300, 300))
                 print ('Disimpan '+str(fu)+str(n+1)+' 1X (Cetak 12 Lbr).jpg')
                 time.sleep(5)
 
@@ -246,7 +246,7 @@ for fu in os.listdir(folderu) :
                     canvas.paste(im, pos[no])
                     no+=1
 
-                canvas.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+1)+' 4X (Cetak 3 Lbr).jpg', "JPEG", quality=100, dpi=(300, 300))
+                canvas.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+1)+' 4X.jpg', "JPEG", quality=100, dpi=(300, 300))
                 print ('Disimpan '+str(fu)+str(n+1)+' 4X (Cetak 3 Lbr).jpg')
                 time.sleep(5)
 
@@ -274,7 +274,7 @@ for fu in os.listdir(folderu) :
                     canvas.paste(im, pos[no])
                     no+=1
 
-                canvas.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+1)+' 1X (Cetak 12 Lbr).jpg', "JPEG", quality=100, dpi=(300, 300))
+                canvas.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+1)+' 1X.jpg', "JPEG", quality=100, dpi=(300, 300))
                 print ('Disimpan '+str(fu)+str(n+1)+' 1X (Cetak 12 Lbr).jpg')
                 time.sleep(5)
 
@@ -327,7 +327,7 @@ for fu in os.listdir(folderu) :
                     canvas.paste(im, pos[no])
                     no+=1
 
-                canvas.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+1)+' 3X (Cetak 4 Lbr).jpg', "JPEG", quality=100, dpi=(300, 300))
+                canvas.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+1)+' 3X.jpg', "JPEG", quality=100, dpi=(300, 300))
                 print ('Disimpan '+str(fu)+str(n+1)+' 3X (Cetak 4 Lbr).jpg')
                 time.sleep(5)
 
@@ -355,7 +355,7 @@ for fu in os.listdir(folderu) :
                     canvas.paste(im, pos[no])
                     no+=1
 
-                canvas.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+1)+' 1X (Cetak 12 Lbr).jpg', "JPEG", quality=100, dpi=(300, 300))
+                canvas.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+1)+' 1X.jpg', "JPEG", quality=100, dpi=(300, 300))
                 print ('Disimpan '+str(fu)+str(n+1)+' 1X (Cetak 12 Lbr).jpg')
                 time.sleep(5)
 
@@ -429,9 +429,9 @@ for fu in os.listdir(folderu) :
                     canvas2.paste(im, pos[no])
                     no+=1
 
-                canvas.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+1)+' 4X (Cetak 3 Lbr).jpg', "JPEG", quality=100, dpi=(300, 300))
+                canvas.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+1)+' 4X.jpg', "JPEG", quality=100, dpi=(300, 300))
                 print ('Disimpan '+str(fu)+str(n+1)+' 4X (Cetak 3 Lbr).jpg')
-                canvas2.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+1)+' 6X (Cetak 2 Lbr).jpg', "JPEG", quality=100, dpi=(300, 300))
+                canvas2.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+1)+' 6X.jpg', "JPEG", quality=100, dpi=(300, 300))
                 print ('Disimpan '+str(fu)+str(n+1)+' 6X (Cetak 2 Lbr).jpg')
                 time.sleep(5)
 
@@ -459,7 +459,7 @@ for fu in os.listdir(folderu) :
                     canvas.paste(im, pos[no])
                     no+=1
 
-                canvas.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+1)+' 1X (Cetak 12 Lbr).jpg', "JPEG", quality=100, dpi=(300, 300))
+                canvas.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+1)+' 1X.jpg', "JPEG", quality=100, dpi=(300, 300))
                 print ('Disimpan '+str(fu)+str(n+1)+' 1X (Cetak 12 Lbr).jpg')
                 time.sleep(5)
 
@@ -528,7 +528,7 @@ for fu in os.listdir(folderu) :
                     canvas.paste(im, pos[no])
                     no+=1
 
-                canvas.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+1)+' 2X (Cetak 6 Lbr).jpg', "JPEG", quality=100, dpi=(300, 300))
+                canvas.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+1)+' 2X.jpg', "JPEG", quality=100, dpi=(300, 300))
                 print ('Disimpan '+str(fu)+str(n+1)+' 2X (Cetak 6 Lbr).jpg')
                 time.sleep(5)
 
@@ -556,7 +556,7 @@ for fu in os.listdir(folderu) :
                     canvas.paste(im, pos[no])
                     no+=1
 
-                canvas.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+1)+' 1X (Cetak 12 Lbr).jpg', "JPEG", quality=100, dpi=(300, 300))
+                canvas.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+1)+' 1X.jpg', "JPEG", quality=100, dpi=(300, 300))
                 print ('Disimpan '+str(fu)+str(n+1)+' 1X (Cetak 12 Lbr).jpg')
                 time.sleep(5)
 
@@ -647,9 +647,9 @@ for fu in os.listdir(folderu) :
                     no+=1
 
 
-                canvas.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+1)+' 2X (Cetak 6 Lbr).jpg', "JPEG", quality=100, dpi=(300, 300))
+                canvas.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+1)+' 2X.jpg', "JPEG", quality=100, dpi=(300, 300))
                 print ('Disimpan '+str(fu)+str(n+1)+' 2X (Cetak 6 Lbr).jpg')
-                canvas2.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+2)+' 12X (Cetak 1 Lbr).jpg', "JPEG", quality=100, dpi=(300, 300))
+                canvas2.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+2)+' 12X.jpg', "JPEG", quality=100, dpi=(300, 300))
                 print ('Disimpan '+str(fu)+str(n+1)+' 12X (Cetak 1 Lbr).jpg')
                 time.sleep(5)
 
@@ -677,7 +677,7 @@ for fu in os.listdir(folderu) :
                     canvas.paste(im, pos[no])
                     no+=1
 
-                canvas.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+1)+' 1X (Cetak 12 Lbr).jpg', "JPEG", quality=100, dpi=(300, 300))
+                canvas.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+1)+' 1X.jpg', "JPEG", quality=100, dpi=(300, 300))
                 print ('Disimpan '+str(fu)+str(n+1)+' 1X (Cetak 12 Lbr).jpg')
                 time.sleep(5)
 
@@ -769,9 +769,9 @@ for fu in os.listdir(folderu) :
                     no+=1
 
 
-                canvas.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+1)+' 2X (Cetak 6 Lbr).jpg', "JPEG", quality=100, dpi=(300, 300))
+                canvas.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+1)+' 2X.jpg', "JPEG", quality=100, dpi=(300, 300))
                 print ('Disimpan '+str(fu)+str(n+1)+' 2X (Cetak 6 Lbr).jpg')
-                canvas2.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+2)+' 6X (Cetak 2 Lbr).jpg', "JPEG", quality=100, dpi=(300, 300))
+                canvas2.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+2)+' 6X.jpg', "JPEG", quality=100, dpi=(300, 300))
                 print ('Disimpan '+str(fu)+str(n+1)+' 6X (Cetak 2 Lbr).jpg')
                 time.sleep(5)
 
@@ -799,7 +799,7 @@ for fu in os.listdir(folderu) :
                     canvas.paste(im, pos[no])
                     no+=1
 
-                canvas.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+1)+' 1X (Cetak 12 Lbr).jpg', "JPEG", quality=100, dpi=(300, 300))
+                canvas.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+1)+' 1X.jpg', "JPEG", quality=100, dpi=(300, 300))
                 print ('Disimpan '+str(fu)+str(n+1)+' 1X (Cetak 12 Lbr)slapan.jpg')
                 time.sleep(5)
 
@@ -905,9 +905,9 @@ for fu in os.listdir(folderu) :
                     canvas2.paste(im, pos[no])
                     no+=1
 
-                canvas.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+1)+' 2X (Cetak 6 Lbr).jpg', "JPEG", quality=100, dpi=(300, 300))
+                canvas.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+1)+' 2X.jpg', "JPEG", quality=100, dpi=(300, 300))
                 print ('Disimpan '+str(fu)+str(n+1)+' 2X (Cetak 6 Lbr).jpg')
-                canvas2.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+2)+' 4X (Cetak 3 Lbr).jpg', "JPEG", quality=100, dpi=(300, 300))
+                canvas2.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+2)+' 4X.jpg', "JPEG", quality=100, dpi=(300, 300))
                 print ('Disimpan '+str(fu)+str(n+1)+' 4X (Cetak 3 Lbr).jpg')
                 time.sleep(5)
 
@@ -935,7 +935,7 @@ for fu in os.listdir(folderu) :
                     canvas.paste(im, pos[no])
                     no+=1
 
-                canvas.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+1)+' 1X (Cetak 12 Lbr).jpg', "JPEG", quality=100, dpi=(300, 300))
+                canvas.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+1)+' 1X.jpg', "JPEG", quality=100, dpi=(300, 300))
                 print ('Disimpan '+str(fu)+str(n+1)+' 1X (Cetak 12 Lbr).jpg')
                 time.sleep(5)
 
@@ -1045,9 +1045,9 @@ for fu in os.listdir(folderu) :
                     canvas2.paste(im, pos[no])
                     no+=1
 
-                canvas.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+1)+' 2X (Cetak 6 Lbr).jpg', "JPEG", quality=100, dpi=(300, 300))
+                canvas.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+1)+' 2X.jpg', "JPEG", quality=100, dpi=(300, 300))
                 print ('Disimpan '+str(fu)+str(n+1)+' 2X (Cetak 6 Lbr).jpg')
-                canvas2.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+2)+' 3X (Cetak 4 Lbr).jpg', "JPEG", quality=100, dpi=(300, 300))
+                canvas2.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+2)+' 3X.jpg', "JPEG", quality=100, dpi=(300, 300))
                 print ('Disimpan '+str(fu)+str(n+1)+' 3X (Cetak 4 Lbr).jpg')
                 time.sleep(5)
 
@@ -1075,7 +1075,7 @@ for fu in os.listdir(folderu) :
                     canvas.paste(im, pos[no])
                     no+=1
 
-                canvas.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+1)+' 1X (Cetak 12 Lbr).jpg', "JPEG", quality=100, dpi=(300, 300))
+                canvas.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+1)+' 1X.jpg', "JPEG", quality=100, dpi=(300, 300))
                 print ('Disimpan '+str(fu)+str(n+1)+' 1X (Cetak 12 Lbr).jpg')
                 time.sleep(5)
 
@@ -1207,11 +1207,11 @@ for fu in os.listdir(folderu) :
                     canvas3.paste(im, pos[no])
                     no+=1
 
-                canvas.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+1)+' 2X (Cetak 6 Lbr).jpg', "JPEG", quality=100, dpi=(300, 300))
+                canvas.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+1)+' 2X.jpg', "JPEG", quality=100, dpi=(300, 300))
                 print ('Disimpan '+str(fu)+str(n+1)+' 2X (Cetak 6 Lbr).jpg')
-                canvas2.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+2)+' 4X (Cetak 3 Lbr).jpg', "JPEG", quality=100, dpi=(300, 300))
+                canvas2.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+2)+' 4X.jpg', "JPEG", quality=100, dpi=(300, 300))
                 print ('Disimpan '+str(fu)+str(n+1)+' 4X (Cetak 3 Lbr).jpg')
-                canvas3.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+3)+' 6X (Cetak 2 Lbr).jpg', "JPEG", quality=100, dpi=(300, 300))
+                canvas3.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+3)+' 6X.jpg', "JPEG", quality=100, dpi=(300, 300))
                 print ('Disimpan '+str(fu)+str(n+1)+' 6X (Cetak 2 Lbr).jpg')
                 time.sleep(5)
 
@@ -1239,7 +1239,7 @@ for fu in os.listdir(folderu) :
                     canvas.paste(im, pos[no])
                     no+=1
 
-                canvas.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+1)+' 1X (Cetak 12 Lbr).jpg', "JPEG", quality=100, dpi=(300, 300))
+                canvas.save(up_folder+"\\"+os.path.basename(folderu)+' Cetak\\'+str(fu)+str(n+1)+' 1X.jpg', "JPEG", quality=100, dpi=(300, 300))
                 print ('Disimpan '+str(fu)+str(n+1)+' 1X (Cetak 12 Lbr).jpg')
                 time.sleep(5)
 
